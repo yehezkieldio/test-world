@@ -6,6 +6,10 @@ members = ["cargo:."]
 # The preferred dist version to use in CI (Cargo.toml SemVer syntax)
 cargo-dist-version = "0.30.3"
 # The installers to generate for each app
-installers = []
+installers = ["npm"]
 # Target platforms to build apps for (Rust target-triple syntax)
 targets = ["x86_64-unknown-linux-gnu", "x86_64-unknown-linux-musl"]
+# CI backends to support
+ci = "github"
+# A namespace to use when publishing this package to the npm registry
+npm-scope = "@amarislabs"
