@@ -6,6 +6,10 @@ All notable changes to this project will be documented in this file.
 
 > This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html) and uses [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit messages.
 
+## 0.2.2 (January 21, 2026)
+
+### <!-- 11 -->🛠️ Miscellaneous
+- [`35c68a9`](https://github.com/yehezkieldio/test-world/commit/35c68a982b4bf9cb57632427a8b6870f6baa3cf3) Init changelog file
 ## 0.2.1 (January 21, 2026)
 
 ### <!-- 16 -->🤖 CI/CD
